@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "75200372169",
+    "firebase_url": "https://proyecto-iot-e87db-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-iot-e87db",
+    "storage_bucket": "proyecto-iot-e87db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75200372169:android:0846b49590970914ac1c18",
+        "android_client_info": {
+          "package_name": "cl.inacap.ProyectoIoT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqvx-xtTQIon_XPgu-F7sNxLKs0W7vyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
